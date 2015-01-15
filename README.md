@@ -1,4 +1,4 @@
 Spaceman
 ========
 
-A game made by ___________________.
+A game made by Ascension Games.
